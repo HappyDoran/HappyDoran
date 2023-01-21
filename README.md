@@ -26,4 +26,7 @@
 😎
 
 <br>
-
+<div align="center">
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=kirin2211&show_icons=true&theme=tokyonight)](https://github.com/kirin2211)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirin2211&layout=compact)](https://github.com/kirin2211/github-readme-stats)
+</div>
