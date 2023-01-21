@@ -20,7 +20,7 @@
 <p align="center">
   <a href="mailto:kirin0044@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kirin0044@gmail.com"/></a>
   <a href="mailto:kirin2211@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=kirin2211@naver.com"/></a>
-  <a href ="https://https://github.com/kirin2211"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href ="https://github.com/kirin2211"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 <p align="center">
 😎
