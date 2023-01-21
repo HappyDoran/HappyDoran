@@ -25,6 +25,7 @@
 😎
 
 <br>
-
+<p align="center">
 [![kirin2211's github stats](https://github-readme-stats.vercel.app/api?username=kirin2211&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/kirin2211/github-readme-stats)  
+</p>
 
