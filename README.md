@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/SwiftUI-FFAC45?style=flat&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> 
 
 </div>
 
