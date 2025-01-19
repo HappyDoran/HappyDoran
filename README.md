@@ -12,11 +12,11 @@
   
 ### Experiences
 
-<img width="2.5%" src="https://github.com/user-attachments/assets/1766b227-a5df-4564-9b99-ac31d5997d7a" align="left">  **HMHZ Studio** - Frontend / iOS Developer <sub>(2024.09. ~ )</sub>
+<img width="2.5%" src="https://github.com/user-attachments/assets/1766b227-a5df-4564-9b99-ac31d5997d7a" align="left"> **HMHZ Studio** - Frontend / iOS Developer <sub>(2024.09. ~ )</sub>
 
-🍎 　 **Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
+🍎 　 &nbsp;**Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
 
-🦮 　 **Unpeil** - Frontend Developer <sub>(2023.10. ~ 2024.02.)</sub>
+🦮 　 &nbsp;**Unpeil** - Frontend Developer <sub>(2023.10. ~ 2024.02.)</sub>
 
 <br />
 
