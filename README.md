@@ -2,27 +2,23 @@
   
   ### Doran
 
-  <img align="right" width="50" src="https://github.com/kirin2211/kirin2211/assets/52277540/47a1d283-c4ab-4823-a3d6-46b254201d12" />
+  <img align="right" width="60" src="https://github.com/kirin2211/kirin2211/assets/52277540/47a1d283-c4ab-4823-a3d6-46b254201d12" />
 
  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/swiftUI-026ffd?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  
----
 
   </div>
   
-### Experiences
+## Experiences
 
-<img width="2.5%" src="https://github.com/user-attachments/assets/1766b227-a5df-4564-9b99-ac31d5997d7a" align="left"> **HMHZ Studio** - Frontend / iOS Developer <sub>(2024.09. ~ )</sub>
+<img width="24px" src="https://github.com/user-attachments/assets/1766b227-a5df-4564-9b99-ac31d5997d7a" align="left"> **HMHZ Studio** - Frontend / iOS Developer <sub>(2024.09. ~ )</sub>
 
-🍎 　 &nbsp;**Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
+<img width="24px" src="https://github.com/user-attachments/assets/e81487e3-9847-45bf-ac06-1d6331d25ca5" align="left"> **Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
 
-🦮 　 &nbsp;**Unpeil** - Frontend Developer <sub>(2023.10. ~ 2024.02.)</sub>
+<img width="24px" src="https://github.com/user-attachments/assets/7ef9493c-1d34-44d9-bfeb-46ba2bf1adc8" align="left"> **Unpeil** - Frontend Developer <sub>(2023.10. ~ 2024.02.)</sub>
 
 <br />
 
----
-
-### Projects
+## Projects
 
 **KEEV Admin** - 공연 후기 작성 커뮤니티 서비스 KEEV 관리자 페이지, FE 개발 <sub>(2024.11.15 ~ )</sub>
 
