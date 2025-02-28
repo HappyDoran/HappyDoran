@@ -2,10 +2,9 @@
   
   ### Doran
 
-  <img align="right" width="60" src="https://github.com/kirin2211/kirin2211/assets/52277540/47a1d283-c4ab-4823-a3d6-46b254201d12" />
+  <img align="right" width="70" src="https://github.com/kirin2211/kirin2211/assets/52277540/47a1d283-c4ab-4823-a3d6-46b254201d12" />
 
  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/swiftUI-026ffd?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
   </div>
   
 ## Experiences
@@ -35,3 +34,9 @@
 [**Spettrum Landing Page**](https://unpeil.com/) - “SPETTRUM” 서비스의 정보를 제공하기 위한 랜딩 페이지 , FE 개발 <sub>(2023.10.01 ~ 2023.12.12)</sub>
 
 [**Spettrum**](https://apps.apple.com/kr/app/spettrum-ai-online-pet-studio/id6468774776?l=en-GB) - 이미지 생성 AI 기술을 이용한 반려동물 스튜디오 서비스 유지보수, RN 개발 <sub>(2023.10. ~ 2024.01.)</sub>
+
+<br />
+
+## Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kirin2211)](https://solved.ac/kirin2211)
