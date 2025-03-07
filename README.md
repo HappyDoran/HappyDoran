@@ -13,7 +13,7 @@
 
 <img width="24px" src="https://github.com/user-attachments/assets/e81487e3-9847-45bf-ac06-1d6331d25ca5" align="left"> **Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
 
-<img width="24px" src="https://github.com/user-attachments/assets/7ef9493c-1d34-44d9-bfeb-46ba2bf1adc8" align="left"> **Unpeil** - Frontend Developer <sub>(2023.10. ~ 2024.02.)</sub>
+<img width="24px" src="https://github.com/user-attachments/assets/7ef9493c-1d34-44d9-bfeb-46ba2bf1adc8" align="left"> **Unpeil** - Frontend Developer <sub>(2023.10. ~ 2024.01.)</sub>
 
 <br />
 
