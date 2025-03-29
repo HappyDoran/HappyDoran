@@ -9,6 +9,8 @@
   
 ## Experiences
 
+<img width="24px" src="https://github.com/user-attachments/assets/b28c4511-60ee-43d0-8171-8fee22f5f3ac" align="left"> **10kM.ai** - Frontend Developer <sub>(2025.04. ~ )</sub>
+
 <img width="24px" src="https://github.com/user-attachments/assets/1766b227-a5df-4564-9b99-ac31d5997d7a" align="left"> **HMHZ Studio** - Frontend / iOS Developer <sub>(2024.09. ~ )</sub>
 
 <img width="24px" src="https://github.com/user-attachments/assets/e81487e3-9847-45bf-ac06-1d6331d25ca5" align="left"> **Apple Developer Academy@POSTECH** - 3rd Junior Learner <sub>(2024.03. ~ 2024.12.)</sub>
