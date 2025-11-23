@@ -22,9 +22,9 @@
 ## Projects
 [**Signy Play**](https://github.com/HappyDoran/Signy-Play) - 청각장애 아동 미국 수어(ASL) 학습 서비스<sub>(2025.01.31 - 2025.02.23)</sub> `WWDC25 Swift Student Challenge Winner🏆`
 
-[**KEEV Admin**](https://hmhz-keev.com/) - 공연 후기 작성 커뮤니티 서비스 KEEV 관리자 페이지, FE 개발 <sub>(2024.11.15 ~ )</sub>
+[**KEEV Admin**](https://hmhz-keev.com/) - 공연 후기 작성 커뮤니티 서비스 KEEV 관리자 페이지, FE 개발 <sub>(2024.11.15 ~ 2025.04.01)</sub>
 
-[**KEEV**](https://apps.apple.com/kr/app/keev/id6738935591?l=en-GB) - 공연에 대한 기록을 남기고, 같은 공연을 본 사람들과 소통을 할 수 있는 커뮤니티 서비스, iOS 개발 <sub>(2024.09.02 ~ )</sub>
+[**KEEV**](https://apps.apple.com/kr/app/keev/id6738935591?l=en-GB) - 공연에 대한 기록을 남기고, 같은 공연을 본 사람들과 소통을 할 수 있는 커뮤니티 서비스, iOS 개발 <sub>(2024.09.02 ~ 2025.04.01)</sub>
 
 [**TurtleNeck**](https://apps.apple.com/kr/app/turtleneck/id6615065624?l=en-GB&mt=12) - 에어팟 자이로센서를 활용한 거북목 예방 서비스, iOS 개발 <sub>(2024.07.01 ~ 2024.08.16)</sub>
 
