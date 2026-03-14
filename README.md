@@ -39,7 +39,3 @@
 [**Spettrum**](https://apps.apple.com/kr/app/spettrum-ai-online-pet-studio/id6468774776?l=en-GB) - 이미지 생성 AI 기술을 이용한 반려동물 스튜디오 서비스 유지보수, RN 개발 <sub>(2023.10. ~ 2024.01.)</sub>
 
 <br />
-
-## Solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kirin2211)](https://solved.ac/kirin2211)
