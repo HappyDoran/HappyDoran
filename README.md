@@ -38,8 +38,6 @@
 
 [**DDooing**](https://github.com/HappyDoran/DDooing) - 장거리 연인을 위한 푸시 메시지 전송 앱, iOS 개발 <sub>(2024.04.26 ~ 2024.05.31)</sub>
 
-**Spettrum Landing Page** - “SPETTRUM” 서비스의 정보를 제공하기 위한 랜딩 페이지, FE 개발 <sub>(2023.10.01 ~ 2023.12.12)</sub>
-
 [**Spettrum**](https://apps.apple.com/kr/app/spettrum-ai-online-pet-studio/id6468774776?l=en-GB) - 이미지 생성 AI 기술을 이용한 반려동물 스튜디오 서비스 유지보수, RN 개발 <sub>(2023.10. ~ 2024.01.)</sub>
 
 <br />
