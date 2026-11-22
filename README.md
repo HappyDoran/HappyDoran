@@ -30,7 +30,7 @@
 
 [**KEEV**](https://github.com/HappyDoran/KEEV_iOS) - 공연에 대한 기록을 남기고, 같은 공연을 본 사람들과 소통을 할 수 있는 커뮤니티 서비스, iOS 개발 <sub>(2024.09.02 ~ 2025.04.01)</sub>
 
-[**TurtleNeck**](https://apps.apple.com/kr/app/turtleneck/id6615065624?l=en-GB&mt=12) - 에어팟 자이로센서를 활용한 거북목 예방 서비스, macOS 개발 <sub>(2024.07.01 ~ 2024.08.16)</sub>
+[**TurtleNeck**](https://github.com/HappyDoran/TurtleNeck) - 에어팟 자이로센서를 활용한 거북목 예방 서비스, macOS 개발 <sub>(2024.07.01 ~ 2024.08.16)</sub>
 
 [**꺾을 시간**](https://github.com/HappyDoran/KKeokkEulTime) - 손목 건강을 지키기 위한 스트레칭 보조 앱, iOS 개발 <sub>(2024.06.14 ~ 2024.06.15)</sub> `ADA Code Drop Hackathon - HighLight Team🏆`
 
