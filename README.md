@@ -20,10 +20,6 @@
 <br />
 
 ## Projects
-[**Collaborative Sheet**](https://github.com/HappyDoran/collaborative-spreadsheet-editor) - 여러 탭에서 함께 편집하고 AI에게 범위 편집을 맡기는 웹 스프레드시트, FE 개발 <sub>(2026.10.02 ~ 2026.11.10)</sub>
-
-[**BenchMarkVideo**](https://github.com/HappyDoran/BenchMarkVideo) - iPhone LiDAR로 공간을 스캔하며 실시간 2D 미니맵을 그리는 앱, iOS 개발 <sub>(2026.09.04 ~ 2026.09.12)</sub>
-
 [**stackflow-kit**](https://github.com/HappyDoran/stackflow-kit) - React StackFlow 네비게이션 중복 방지·swipe-back 패키지, 오픈소스 <sub>(2026.08.12 ~ 2026.11.10)</sub>
 
 [**Kanban Press**](https://kanban-press.vercel.app) - Notion 문서를 칸반으로 관리해 내 GitHub Pages 블로그에 게시하는 서비스, FE 개발 <sub>(2026.07.19 ~ 2026.11.12)</sub>
