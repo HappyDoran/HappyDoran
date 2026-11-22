@@ -20,13 +20,21 @@
 <br />
 
 ## Projects
+[**Collaborative Sheet**](https://github.com/HappyDoran/collaborative-spreadsheet-editor) - 여러 탭에서 함께 편집하고 AI에게 범위 편집을 맡기는 웹 스프레드시트, FE 개발 <sub>(2026.10.02 ~ 2026.11.10)</sub>
+
+[**BenchMarkVideo**](https://github.com/HappyDoran/BenchMarkVideo) - iPhone LiDAR로 공간을 스캔하며 실시간 2D 미니맵을 그리는 앱, iOS 개발 <sub>(2026.09.04 ~ 2026.09.12)</sub>
+
+[**stackflow-kit**](https://github.com/HappyDoran/stackflow-kit) - React StackFlow 네비게이션 중복 방지·swipe-back 패키지, 오픈소스 <sub>(2026.08.12 ~ 2026.11.10)</sub>
+
+[**Kanban Press**](https://kanban-press.vercel.app) - Notion 문서를 칸반으로 관리해 내 GitHub Pages 블로그에 게시하는 서비스, FE 개발 <sub>(2026.07.19 ~ 2026.11.12)</sub>
+
 [**Signy Play**](https://github.com/HappyDoran/Signy-Play) - 청각장애 아동 미국 수어(ASL) 학습 서비스<sub>(2025.01.31 - 2025.02.23)</sub> `WWDC25 Swift Student Challenge Winner🏆`
 
 [**KEEV Admin**](https://github.com/HappyDoran/KEEV_Front) - 공연 후기 작성 커뮤니티 서비스 KEEV 관리자 페이지, FE 개발 <sub>(2024.11.15 ~ 2025.04.01)</sub>
 
 [**KEEV**](https://github.com/HappyDoran/KEEV_iOS) - 공연에 대한 기록을 남기고, 같은 공연을 본 사람들과 소통을 할 수 있는 커뮤니티 서비스, iOS 개발 <sub>(2024.09.02 ~ 2025.04.01)</sub>
 
-[**TurtleNeck**](https://apps.apple.com/kr/app/turtleneck/id6615065624?l=en-GB&mt=12) - 에어팟 자이로센서를 활용한 거북목 예방 서비스, iOS 개발 <sub>(2024.07.01 ~ 2024.08.16)</sub>
+[**TurtleNeck**](https://apps.apple.com/kr/app/turtleneck/id6615065624?l=en-GB&mt=12) - 에어팟 자이로센서를 활용한 거북목 예방 서비스, macOS 개발 <sub>(2024.07.01 ~ 2024.08.16)</sub>
 
 [**꺾을 시간**](https://github.com/HappyDoran/KKeokkEulTime) - 손목 건강을 지키기 위한 스트레칭 보조 앱, iOS 개발 <sub>(2024.06.14 ~ 2024.06.15)</sub> `ADA Code Drop Hackathon - HighLight Team🏆`
 
@@ -34,7 +42,7 @@
 
 [**DDooing**](https://github.com/HappyDoran/DDooing) - 장거리 연인을 위한 푸시 메시지 전송 앱, iOS 개발 <sub>(2024.04.26 ~ 2024.05.31)</sub>
 
-[**Spettrum Landing Page**]('') - “SPETTRUM” 서비스의 정보를 제공하기 위한 랜딩 페이지 , FE 개발 <sub>(2023.10.01 ~ 2023.12.12)</sub>
+**Spettrum Landing Page** - “SPETTRUM” 서비스의 정보를 제공하기 위한 랜딩 페이지, FE 개발 <sub>(2023.10.01 ~ 2023.12.12)</sub>
 
 [**Spettrum**](https://apps.apple.com/kr/app/spettrum-ai-online-pet-studio/id6468774776?l=en-GB) - 이미지 생성 AI 기술을 이용한 반려동물 스튜디오 서비스 유지보수, RN 개발 <sub>(2023.10. ~ 2024.01.)</sub>
 
