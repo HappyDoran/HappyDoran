@@ -20,6 +20,8 @@
 <br />
 
 ## Projects
+[**NextStep**](https://github.com/HappyDoran/nextstep) - 취업·이직 준비자를 위한 맞춤 채용공고 추천·지원 관리 서비스, 풀스택 개발 <sub>(2026.11.04 ~ )</sub>
+
 [**stackflow-kit**](https://github.com/HappyDoran/stackflow-kit) - React StackFlow 네비게이션 중복 방지·swipe-back 패키지, 오픈소스 <sub>(2026.08.12 ~ 2026.11.10)</sub>
 
 [**Kanban Press**](https://kanban-press.vercel.app) - Notion 문서를 칸반으로 관리해 내 GitHub Pages 블로그에 게시하는 서비스, FE 개발 <sub>(2026.07.19 ~ 2026.11.12)</sub>
